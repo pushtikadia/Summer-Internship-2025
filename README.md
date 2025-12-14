@@ -79,3 +79,5 @@ To view any of these projects on your local machine:
 <p align="center">
   Built with ❤️ during Summer 2025 Internship
 </p>
+
+*Created by [Pushti Kadia](https://github.com/pushtikadia)*
